@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Enthusiastic about IoT, and drone building. <br><br>Willing to collaborate for a open-cv python project related to a Nerf blaster🔫. <br><br>⚡FUN FACT: I use arch, btw. 😂<br>
+🔭Enthusiastic about IoT, and drone building. <br><br>Willing to collaborate for an open-cv python project related to a Nerf blaster🔫. <br><br>⚡FUN FACT: I use arch, btw. 😂<br>
 
 
 ## 🌐 Socials:
